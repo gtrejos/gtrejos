@@ -6,7 +6,7 @@ Me motiva enfrentar desafíos técnicos que me permitan aprender y crecer contin
 ## Habilidades  
 - **Lenguajes y tecnologías**: HTML, CSS, JavaScript, Java  
 - **Áreas de interés**: Diseño de UI responsivo, animaciones web, optimización de rendimiento frontend  
-- **Herramientas**: Git, VS Code, intellij idea , Figma , Miro , suite Adobe. 
+- **Herramientas**: Git, VS Code, intellij idea , Figma , Miro.
 
 ## Acerca de mí  
 - 💡 Me apasiona transformar ideas en código limpio y experiencias de usuario memorables.  
