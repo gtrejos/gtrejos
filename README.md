@@ -1,11 +1,11 @@
 ## 💫 Hola, soy Gissell Trejos 👋  
 
-👩‍💻 Soy una desarrolladora frontend con un enfoque en crear experiencias web atractivas, responsivas y funcionales. Apasionada por el diseño de interfaces y el desarrollo con HTML, CSS, JavaScript y Java. 
+👩‍💻 Soy una desarrolladora frontend con un enfoque en crear experiencias web atractivas, responsivas y funcionales. Apasionada por el diseño de interfaces y el desarrollo con React, Angular, HTML, CSS, JavaScript y Java. 
 Me motiva enfrentar desafíos técnicos que me permitan aprender y crecer continuamente en el mundo digital. 🚀  
 Portafolio : https://gtrejos.github.io/Portafolio/
 
 ## Habilidades  
-- **Lenguajes y tecnologías**: HTML, CSS, JavaScript, Java  
+- **Lenguajes y tecnologías**: React, Angular,HTML, CSS, JavaScript, Java  
 - **Áreas de interés**: Diseño de UI responsivo, animaciones web, optimización de rendimiento frontend  
 - **Herramientas**: Git, VS Code, intellij idea , Figma , Miro.
 
